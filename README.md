@@ -5,17 +5,16 @@ An NGO website built ensures a robust and scalable platform for managing donatio
 
 ## Demo
 Take a look - https://ngo-umber.vercel.app/
-https://gif-delta-livid.vercel.app/
 
 
 ## Features
 
-- Home Page: Showcases the NGO’s mission, vision, and latest activities.
-- Donation System: Secure online donation gateway with real-time tracking.
-- Volunteer Registration: Forms for volunteers to sign up and manage participation.
-- Events & Campaigns: A dedicated section to display upcoming events and success stories.
-- Blog & News: Regular updates on social initiatives and achievements.
-- Contact & Support: Integrated contact forms, chatbot assistance, and social media links.
+- **Home Page**: Showcases the NGO’s mission, vision, and latest activities.
+- **Donation System**: Secure online donation gateway with real-time tracking.
+- **Volunteer Registration**: Forms for volunteers to sign up and manage participation.
+- **Events & Campaigns**: A dedicated section to display upcoming events and success stories.
+- **Blog & News**: Regular updates on social initiatives and achievements.
+- **Contact & Support**: Integrated contact forms, chatbot assistance, and social media links.
 
 ## License
 
