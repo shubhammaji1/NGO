@@ -1,7 +1,7 @@
 
 # Project Title
 
-An NGO website built ensures a robust and scalable platform for managing donations, volunteer registrations, event updates, and community outreach. 
+An NGO website ensures a robust and scalable platform for managing donations, volunteer registrations, event updates, and community outreach. 
 
 ## Demo
 Take a look - https://ngo-umber.vercel.app/
