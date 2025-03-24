@@ -4,7 +4,7 @@
 An NGO website ensures a robust and scalable platform for managing donations, volunteer registrations, event updates, and community outreach. 
 
 ## Demo
-Take a look - https://ngo-umber.vercel.app/
+Take a look - https://ngo-iota-orcin.vercel.app/
 
 
 ## Features
